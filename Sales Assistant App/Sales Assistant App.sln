@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "Sales Assistant App\UI.csproj", "{DDF6C8CB-6011-49A7-B2C6-1BA1F9FDA468}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{C8FEB43B-AE62-4C6A-AC59-1529ABD6BDAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{17678D02-E743-4A28-BEF0-4CC0E4174C0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDF6C8CB-6011-49A7-B2C6-1BA1F9FDA468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF6C8CB-6011-49A7-B2C6-1BA1F9FDA468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF6C8CB-6011-49A7-B2C6-1BA1F9FDA468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF6C8CB-6011-49A7-B2C6-1BA1F9FDA468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8FEB43B-AE62-4C6A-AC59-1529ABD6BDAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8FEB43B-AE62-4C6A-AC59-1529ABD6BDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8FEB43B-AE62-4C6A-AC59-1529ABD6BDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8FEB43B-AE62-4C6A-AC59-1529ABD6BDAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17678D02-E743-4A28-BEF0-4CC0E4174C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17678D02-E743-4A28-BEF0-4CC0E4174C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17678D02-E743-4A28-BEF0-4CC0E4174C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17678D02-E743-4A28-BEF0-4CC0E4174C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
